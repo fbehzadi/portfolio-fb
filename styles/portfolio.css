@@ -39,7 +39,7 @@ p {
 .hero p {
   color: #272142;
 }
-.hello {
+.hero .hello {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
