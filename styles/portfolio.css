@@ -26,6 +26,8 @@ h1 {
 
 p {
   font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
 }
 
 .hero {
@@ -35,10 +37,12 @@ p {
 }
 
 .hero p {
+  color: #272142;
+}
+.hello {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
-  color: #272142;
 }
 
 .hero h2 {
